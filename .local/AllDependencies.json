@@ -1658,8 +1658,8 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "UiPath_Lvl3_RoboticEnterpriseFrameworkUiDemo",
-      "projectName": "UiPath_Lvl3_RoboticEnterpriseFrameworkUiDemo",
+      "projectUniqueName": "UiPath_REFramework_UiDemo",
+      "projectName": "UiPath_REFramework_UiDemo",
       "projectPath": "C:\\Workspace\\UiPath\\Projects\\Level 3 - Advanced Training\\UiPath_Lvl3_RoboticEnterpriseFrameworkUiDemo\\.local",
       "packagesPath": "C:\\Users\\daisaacs\\.nuget\\packages\\",
       "outputPath": "C:\\Workspace\\UiPath\\Projects\\Level 3 - Advanced Training\\UiPath_Lvl3_RoboticEnterpriseFrameworkUiDemo\\.local"

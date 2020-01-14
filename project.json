@@ -1,6 +1,6 @@
 {
-  "name": "UiPath_Lvl3_RoboticEnterpriseFrameworkUiDemo",
-  "description": "UiPath Foundation Course - Level 3\r\nAdvanced Training",
+  "name": "UiPath_REFramework_UiDemo",
+  "description": "Demonstrating the REFramework with UiDemo",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Credentials.Activities": "[1.1.6479.13204]",
